@@ -1,4 +1,7 @@
 # Netflix Clone 🎬
+
+![Netflix Clone Preview](assets/image/Netflix_Clone.png)
+
 A responsive Netflix clone built with modern web technologies, replicating the core UI/UX of the popular streaming platform.
 
 ## Features ✨
@@ -16,3 +19,12 @@ A responsive Netflix clone built with modern web technologies, replicating the c
 - **Styling**: Flexbox, CSS Grid, Media Queries
 - **Design**: Pixel-perfect Netflix UI replication
 - **Icons**: Font Awesome or similar icon library
+
+
+netflix-clone/
+├── assets/
+│ ├── image/
+│ └── css/
+│── style.css
+├── index.html
+└── README.md

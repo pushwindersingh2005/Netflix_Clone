@@ -1,6 +1,6 @@
 # Netflix Clone 🎬
 
-![Netflix Clone Preview](assets/image/Netflix_Clone.png)
+![Netflix Clone Preview](assets/images/Netflix_Clone.png)
 
 A responsive Netflix clone built with modern web technologies, replicating the core UI/UX of the popular streaming platform.
 
